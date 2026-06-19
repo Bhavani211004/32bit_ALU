@@ -53,7 +53,7 @@ The ALU accepts two 32-bit operands (**A** and **B**) and executes the selected 
 
 
 <p align="center">
- <img width="1122" height="705" alt="Screenshot 2026-06-10 235651" src="https://github.com/user-attachments/assets/ef93a786-4f58-4391-ad91-4cf1b50966be" />
+ <img width= 70% alt="Screenshot 2026-06-10 235651" src="https://github.com/user-attachments/assets/ef93a786-4f58-4391-ad91-4cf1b50966be" />
 
 </p>
 
