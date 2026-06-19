@@ -75,22 +75,7 @@ The ALU accepts two 32-bit operands (**A** and **B**) and executes the selected 
 | 0111 | Logical Right Shift |
 | 1000 | Magnitude Comparison |
 
----
 
-# 📁 Project Structure
-
-```
-32bit-ALU/
-│
-├── alu_32.v
-├── README.md
-├── Report.pdf
-├── RTL/
-│   └── RTL_Schematic.png
-├── Simulation/
-│   └── Waveform.png
-└── Block_Diagram.png
-```
 
 ---
 
